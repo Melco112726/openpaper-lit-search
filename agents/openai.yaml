@@ -1,0 +1,4 @@
+interface:
+  display_name: "OpenPaper 文献检索"
+  short_description: "启动并使用本机 OpenPaper 文献检索工作台"
+  default_prompt: "Use $openpaper-lit-search to open the local OpenPaper literature-search workspace."
